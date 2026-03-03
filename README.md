@@ -6,9 +6,9 @@
 
 **A powerful, flexible POS and business management system**
 
-[![Version](https://img.shields.io/badge/version-1.0.0--beta-blue.svg)](https://github.com/c9infotech/bill-sency-releases/releases)
+[![Version](https://img.shields.io/badge/version-1.0.0--beta-blue.svg)](https://github.com/c9infotech/Bill-Sency/releases)
 [![License](https://img.shields.io/badge/license-Commercial-red.svg)](LICENSE.txt)
-[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/c9infotech/bill-sency-releases/releases)
+[![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](https://github.com/c9infotech/Bill-Sency/releases)
 
 [Download](#-download) • [Features](#-features) • [Installation](#-installation) • [Documentation](#-documentation) • [Support](#-support)
 
@@ -20,9 +20,9 @@
 
 **Latest Release: v1.0.0-beta**
 
-**[⬇️ Download Bill-Sency Installer (75.3 MB)](https://github.com/c9infotech/bill-sency-releases/releases/latest)**
+**[⬇️ Download Bill-Sency Installer (75.3 MB)](https://github.com/c9infotech/Bill-Sency/releases/latest)**
 
-Get the latest version from our [releases page](https://github.com/c9infotech/bill-sency-releases/releases).
+Get the latest version from our [releases page](https://github.com/c9infotech/Bill-Sency/releases).
 
 ### System Requirements
 - **OS:** Windows 10/11 (64-bit)
@@ -81,7 +81,7 @@ Get the latest version from our [releases page](https://github.com/c9infotech/bi
 
 ### Quick Start (5 minutes)
 
-1. **Download** the installer from the [releases page](https://github.com/c9infotech/bill-sency-releases/releases)
+1. **Download** the installer from the [releases page](https://github.com/c9infotech/Bill-Sency/releases)
 
 2. **Run** `BillSency-Setup-1.0.0-beta.exe`
    - Windows may show a security warning (click "Yes" - this is expected for beta versions)
@@ -121,16 +121,16 @@ Get the latest version from our [releases page](https://github.com/c9infotech/bi
 ## 💬 Support
 
 ### 🐛 Bug Reports
-Found a bug? Please [create an issue](https://github.com/c9infotech/bill-sency-releases/issues/new?template=bug_report.md) with:
+Found a bug? Please [create an issue](https://github.com/c9infotech/Bill-Sency/issues/new?template=bug_report.md) with:
 - Steps to reproduce
 - Expected vs actual behavior
 - Screenshots if applicable
 
 ### 💡 Feature Requests
-Have an idea? [Submit a feature request](https://github.com/c9infotech/bill-sency-releases/issues/new?template=feature_request.md)
+Have an idea? [Submit a feature request](https://github.com/c9infotech/Bill-Sency/issues/new?template=feature_request.md)
 
 ### ❓ Questions
-- Check existing [issues](https://github.com/c9infotech/bill-sency-releases/issues)
+- Check existing [issues](https://github.com/c9infotech/Bill-Sency/issues)
 - Visit our [website](https://c9infotech.com)
 - Email: support@c9infotech.com
 
@@ -223,7 +223,7 @@ C9 Infotech specializes in business management solutions for retail, wholesale, 
 - [ ] Advanced analytics with AI
 
 ### Community Requests
-Vote for features in [Issues](https://github.com/c9infotech/bill-sency-releases/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+Vote for features in [Issues](https://github.com/c9infotech/Bill-Sency/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
 
 ---
 
@@ -237,6 +237,6 @@ If you find Bill-Sency useful, please consider starring this repository to show 
 
 **Made with ❤️ by C9 Infotech**
 
-[Website](https://c9infotech.com) • [Support](mailto:support@c9infotech.com) • [Report Bug](https://github.com/c9infotech/bill-sency-releases/issues)
+[Website](https://c9infotech.com) • [Support](mailto:support@c9infotech.com) • [Report Bug](https://github.com/c9infotech/Bill-Sency/issues)
 
 </div>
