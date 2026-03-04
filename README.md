@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Bill-Sency Logo](https://via.placeholder.com/150x150?text=Bill-Sency)
+![Bill-Sency Logo](http://c9infotech.com/wp-content/uploads/2026/03/app-icon.png)
 
 **A powerful, flexible POS and business management system**
 
