@@ -171,13 +171,13 @@ See [CHANGELOG.md](CHANGELOG.md) for complete version history.
 ## 📸 Screenshots
 
 ### POS Interface
-![POS Screenshot](https://via.placeholder.com/800x500?text=POS+Interface)
+![POS Screenshot](http://c9infotech.com/wp-content/uploads/2026/03/POS-Screenshot.png)
 
 ### Reports Dashboard
-![Reports Screenshot](https://via.placeholder.com/800x500?text=Reports+Dashboard)
+![Reports Screenshot](http://c9infotech.com/wp-content/uploads/2026/03/Reports-Screenshot.png)
 
 ### Inventory Management
-![Inventory Screenshot](https://via.placeholder.com/800x500?text=Inventory+Management)
+![Inventory Screenshot](http://c9infotech.com/wp-content/uploads/2026/03/Inventory-Screenshot.png)
 
 ---
 
